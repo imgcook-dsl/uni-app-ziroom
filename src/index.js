@@ -305,7 +305,7 @@ module.exports = function (schema, options) {
         mode: 'xml'
       },
       {
-        panelName: 'idnex.scss',
+        panelName: 'index.scss',
         panelValue: renderData.wxss,
         panelType: 'BuilderRaxStyle',
         mode: 'css'
